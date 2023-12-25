@@ -11,4 +11,4 @@
 - 🤔 I’m looking for help with optimizing database queries for larger datasets.
 - 📫 How to reach me: [mindfonker@gmail.com](mailto:mindfonker@gmail.com), [Twitter](https://twitter.com/mindfonker)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love to unwind by playing the piano and experimenting with new recipes in the kitchen.
+- ⚡ Fun fact: I love to unwind by experimenting with new recipes in the kitchen.
